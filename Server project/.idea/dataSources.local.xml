@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="personaltrainerdb@localhost" uuid="035ab72b-cd74-4cc9-adc2-6a921561b5a4">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <introspection-scope>personaltrainerdb:pg_catalog,postgres,public</introspection-scope>
+      <resolve-scope>personaltrainerdb:postgres,public</resolve-scope>
+    </data-source>
+  </component>
+</project>
