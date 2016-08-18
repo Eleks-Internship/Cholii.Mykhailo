@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_dashboard"
+        android:title="@string/item_menu_dashboard"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_view_dashboard"
+    />
+    <item
+        android:id="@+id/item_charts"
+        android:title="@string/item_menu_statistic_charts"
+        android:orderInCategory="2"
+        android:icon="@mipmap/ic_chart_histogram"
+        />
+    <item
+        android:id="@+id/item_notification"
+        android:title="@string/item_menu_notifications"
+        android:orderInCategory="3"
+        android:icon="@mipmap/ic_av_timer"
+        />
+    <item
+        android:id="@+id/item_followed"
+        android:title="@string/item_menu_followed"
+        android:orderInCategory="4"
+        android:icon="@mipmap/ic_account_check"
+        />
+    <item
+        android:id="@+id/item_followers"
+        android:title="@string/item_menu_followers"
+        android:orderInCategory="5"
+        android:icon="@mipmap/ic_account_multiple"
+        />
+    <item
+        android:id="@+id/item_settings"
+        android:title="@string/item_menu_settings"
+        android:orderInCategory="6"
+        android:icon="@mipmap/ic_settings_box"
+        />
+</menu>

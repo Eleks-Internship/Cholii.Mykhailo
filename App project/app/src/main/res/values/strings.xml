@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">PersonalTrainer</string>
+
+    <string name="search_title">Search</string>
+
+    <string name="item_menu_dashboard">Dashboard</string>
+    <string name="item_menu_notifications">Notifications</string>
+    <string name="item_menu_statistic_charts">Statistic charts</string>
+    <string name="item_menu_followed">Followed</string>
+    <string name="item_menu_followers">Followers</string>
+    <string name="item_menu_settings">Settings</string>
+    <string name="string_charts">Charts</string>
+
+    <string name="string_open">Open</string>
+    <string name="string_close">Close</string>
+
+    <string name="add_notification">Add new notification</string>
+    <string name="add_exercise">Add new exercise</string>
+    <string name="ok">OK</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="pick_a_date">Pick a creationDate</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="chose_exercise">Chose exercise</string>
+    <string name="chose_parameter">Chose parameter</string>
+    <string name="build_chart">Build chart</string>
+
+    <string name="delete">Delete?</string>
+    <string name="delete_question">Do you really want to delete this item?</string>
+    <string name="kg">Kg</string>
+    <string name="count">Count</string>
+    <string name="m">M</string>
+    <string name="time">Time</string>
+    <string name="speed">Speed</string>
+    <string name="prusiad">Присідання (Кількість)</string>
+    <string name="vidjum">Віджимання (Кількість)</string>
+    <string name="pidtiag">Підтягування (Кількість)</string>
+    <string name="pres">Прес (Kількість)</string>
+    <string name="big">Біг (Mетри)</string>
+    <string name="guria">Гиря (Kількість, Kг)</string>
+    <string name="strub_n_s">Cтрибки на скакалці (Kількість)</string>
+    <string name="jum">Жим лежа (Kількість, Kг)</string>
+    <string name="prusiad_z_sht">Присідання з штангою(Kількість, Kг)</string>
+    <string name="ganteli">Гантелі (Kількість, Kг)</string>
+    <string name="stanova">Cтанова (Kількість, Kг)</string>
+    <string name="t_velo">Tренажер-велосипед (M)</string>
+    <string name="t_pid_vagu">Tренажер піднімання ваги(Kількість, Kг)</string>
+    <string name="t_big_dor">Tренажер бігова доріжка (Швидкість, M)</string>
+
+
+</resources>
